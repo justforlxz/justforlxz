@@ -1,5 +1,7 @@
 #
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=justforlxz&show_icons=true&icon_color=66ccff&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 ### Hi :blush: Welcome to here! :wave:
 
 I'm justforlxz. one CPP developer for linux desktop environment (DDE) of China.
