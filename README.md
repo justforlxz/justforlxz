@@ -13,7 +13,7 @@ Hope to cooperate with you :wink:
 
 <div align="center">
 
-[![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+[![OS:macOS](https://img.shields.io/badge/OS-macOS-blue?style=flat-square&logo=Apple)](https://www.apple.com)
 [![OS:iOS](https://img.shields.io/badge/OS-iOS-blue?style=flat-square&logo=ios)](https://www.apple.com)
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![DE:DDE](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=deepin)](https://www.deepin.org)
