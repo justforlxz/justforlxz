@@ -17,7 +17,7 @@ Hope to cooperate with you :wink:
 [![OS:iOS](https://img.shields.io/badge/OS-iOS-blue?style=flat-square&logo=ios)](https://www.apple.com)
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![DE:DDE](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=deepin)](https://www.deepin.org)
-[![DE:DDE](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=gnome)](https://www.gnome.org)
+[![DE:GNOME](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=gnome)](https://www.gnome.org)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![IDE:Emacs](https://img.shields.io/badge/IDE-Emacs-blue?style=flat-square&logo=emacs)](https://www.gnu.org/software/emacs/)
